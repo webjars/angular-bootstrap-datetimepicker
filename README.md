@@ -1,5 +1,5 @@
-WebJar for WEBJAR_NAME
+WebJar for Angular Datetime Picker
 
 More info: http://webjars.org
 
-Upstream: WEBJAR_URL
+Upstream: https://github.com/dalelotts/angular-bootstrap-datetimepicker
